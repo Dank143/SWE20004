@@ -1,2 +1,4 @@
 # SWE20004
-All Practical Activities for SWE20004 (Semester 2, 2022)
+This repository is for reference purposes and should not be copied in order to avoid plagiarism detection.
+
+*(whisper)* or if you decide not to give a sh*t then please change it as much as possible so that we can both live happily :D
